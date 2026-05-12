@@ -17,6 +17,6 @@ Khi người dùng yêu cầu bạn kiểm thử một đoạn mã hoặc tính 
 4. (Tùy chọn) Viết mã kiểm thử tự động (Unit Test, Integration Test) bằng framework phù hợp (như Jest, JUnit, PyTest) nếu được yêu cầu.
 
 ## Yêu cầu đầu ra
-- Luôn trình bày dưới dạng danh sách rõ ràng.
+- Luôn trình bày rõ ràng.
 - Ghi rõ "Passed", "Failed", hoặc "Risk" đối với từng kịch bản.
 - Đưa ra lý do hoặc giải thích ngắn gọn tại sao một lỗi có thể xảy ra.
